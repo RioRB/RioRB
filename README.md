@@ -2,9 +2,8 @@
 
 Perkenalkan nama saya **Rio Ramadhan Bahtiar**.\
 
-Saya seorang **Mahasiswa** di Program Studi Ilmu Komputer, Universitas Pendidikan Indonesia.\
+Saya Lulusan S1 di Program Studi Ilmu Komputer, Universitas Pendidikan Indonesia.\
 
-Saya saat ini sedang menempuh Studi Independen Bersertifikat di [Dicoding](https://www.dicoding.com/).\
 
 <p align="left">
 <a href="https://github.com/RioRB">
